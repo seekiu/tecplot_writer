@@ -12,3 +12,7 @@ Notice that this script is a very limited tecplot data writer in terms of
 functionality, because it only recognizes 2d or 3d data on regular lattice.
 Also the `npz2tecplot` function is created according to my own custom. Although
 you can easily adapt it to your own use, too.
+
+**Credit**
+
+The tecplot data format is inspired from [visitusers.org](http://www.visitusers.org/index.php?title=Writing_Tecplot_Using_Python).
